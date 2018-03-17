@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PRESINILLA_1202154302_STUDYCASE4</string>
+    <string-array name="namaMhs">
+        <item>Presi Nilla</item>
+        <item>Putri Destri</item>
+        <item>Pradita Wilda</item>
+        <item>Alif Nur Luckyarmanu</item>
+        <item>Berlian Zetta</item>
+        <item>Sintia Priga</item>
+        <item>Catur Desia</item>
+        <item>Jessica Febby</item>
+        <item>Laily</item>
+        <item>Lifta Rachmadia</item>
+        <item>Yana Dayana</item>
+        <item>Zaki Habibi</item>
+        <item>Raihan Saputra</item>
+
+    </string-array>
+</resources>
